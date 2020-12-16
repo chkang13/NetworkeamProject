@@ -1,0 +1,4 @@
+ID, Password, Nickname, Name, E-mail, Birth, Phone-number, github
+chkang,8090hs,kang,ChangHoon,chkang31@naver.com,981113,010-9492-3610,snoopy
+hgwon37,8121dkw,snoopy,HyungGwon,wkdgudrnjs37@naver.com,000307,010-9964-9059,kang,Cuz
+tnfpck0306,4795565,Cuz,SungMin,tnfpck0306@naver.com,980701,01046277606,snoopy
